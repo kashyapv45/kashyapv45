@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F16,100:17212C&height=180&section=header&text=Kashyap%20Vaghani&fontSize=42&fontColor=E7ECF2&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20.NET%20%26%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=8CA0B3&animation=fadeIn" width="100%"/>
+# Kashyap Vaghani
+
+### Software Engineer · .NET & Distributed Systems
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fkashyapv45-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyapv45)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-8CA0B3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashyapvaghani7055@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-4FD1C5?style=for-the-badge&logo=vercel&logoColor=black)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2733?style=flat&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kashyapv45)
+[![Email](https://img.shields.io/badge/Email-1C2733?style=flat&logo=gmail&logoColor=4FD1C5)](mailto:kashyapvaghani7055@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C2733?style=flat&logo=vercel&logoColor=4FD1C5)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-E8A33D?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Texas%2C%20US-1C2733?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-E8A33D?style=flat&labelColor=1C2733)
+![Location](https://img.shields.io/badge/LOCATION-Texas,%20US-4FD1C5?style=flat&labelColor=1C2733)
 
 </div>
 
@@ -26,9 +28,9 @@ My interests extend into health data analytics, on-device privacy, and AI agent 
 <td valign="top" width="50%">
 
 **Currently**
-- 💼 Software Engineer (.NET) at **Citigroup**
-- 🎓 MS, Computer Science — Troy University (2026)
-- 📍 Based in Texas, United States
+- Software Engineer (.NET) at **Citigroup**
+- MS, Computer Science — Troy University (2026)
+- Based in Texas, United States
 
 </td>
 <td valign="top" width="50%">
@@ -52,36 +54,36 @@ My interests extend into health data analytics, on-device privacy, and AI agent 
 
 **Languages & Backend**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-1C2733?style=flat&logo=csharp&logoColor=4FD1C5)
+![.NET](https://img.shields.io/badge/.NET-1C2733?style=flat&logo=dotnet&logoColor=4FD1C5)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1C2733?style=flat&logo=dotnet&logoColor=4FD1C5)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C2733?style=flat&logo=typescript&logoColor=4FD1C5)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C2733?style=flat&logo=javascript&logoColor=4FD1C5)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-1C2733?style=flat&logo=react&logoColor=4FD1C5)
+![Angular](https://img.shields.io/badge/Angular-1C2733?style=flat&logo=angular&logoColor=4FD1C5)
+![Blazor](https://img.shields.io/badge/Blazor-1C2733?style=flat&logo=blazor&logoColor=4FD1C5)
 
 </td>
 <td valign="top" width="50%">
 
 **Data & Messaging**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1C2733?style=flat&logo=microsoftsqlserver&logoColor=4FD1C5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C2733?style=flat&logo=postgresql&logoColor=4FD1C5)
+![MongoDB](https://img.shields.io/badge/MongoDB-1C2733?style=flat&logo=mongodb&logoColor=4FD1C5)
+![Redis](https://img.shields.io/badge/Redis-1C2733?style=flat&logo=redis&logoColor=4FD1C5)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1C2733?style=flat&logo=rabbitmq&logoColor=4FD1C5)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-1C2733?style=flat&logo=apachekafka&logoColor=4FD1C5)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1C2733?style=flat&logo=microsoftazure&logoColor=4FD1C5)
+![Docker](https://img.shields.io/badge/Docker-1C2733?style=flat&logo=docker&logoColor=4FD1C5)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1C2733?style=flat&logo=kubernetes&logoColor=4FD1C5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C2733?style=flat&logo=githubactions&logoColor=4FD1C5)
 
 </td>
 </tr>
@@ -136,10 +138,10 @@ Source for my personal site and portfolio, published via GitHub Pages.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kashyapv45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0F16&title_color=4FD1C5&icon_color=E8A33D&text_color=8CA0B3" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapv45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F16&title_color=4FD1C5&text_color=8CA0B3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kashyapv45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=4FD1C5&icon_color=E8A33D&text_color=8CA0B3&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapv45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=8CA0B3&border_radius=12" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapv45&theme=tokyonight&hide_border=true&background=0A0F16&ring=4FD1C5&fire=E8A33D&currStreakLabel=4FD1C5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapv45&theme=tokyonight&hide_border=true&background=0D1117&ring=4FD1C5&fire=E8A33D&currStreakLabel=4FD1C5&border_radius=12" />
 
 </div>
 
@@ -151,12 +153,8 @@ Source for my personal site and portfolio, published via GitHub Pages.
 
 I'm open to Software Engineer / .NET Developer roles — feel free to reach out.
 
-[![Email](https://img.shields.io/badge/kashyapvaghani7055%40gmail.com-1C2733?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](mailto:kashyapvaghani7055@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/in%2Fkashyapv45-1C2733?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kashyapv45)
-[![Phone](https://img.shields.io/badge/334--492--6566-1C2733?style=for-the-badge&logo=phone&logoColor=E8A33D)](tel:3344926566)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17212C,100:0A0F16&height=100&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/kashyapvaghani7055%40gmail.com-1C2733?style=flat&logo=gmail&logoColor=4FD1C5)](mailto:kashyapvaghani7055@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/in%2Fkashyapv45-1C2733?style=flat&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kashyapv45)
+[![Phone](https://img.shields.io/badge/334--492--6566-1C2733?style=flat&logo=phone&logoColor=4FD1C5)](tel:3344926566)
 
 </div>
