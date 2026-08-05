@@ -134,19 +134,6 @@ Source for my personal site and portfolio, published via GitHub Pages.
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kashyapv45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=4FD1C5&icon_color=E8A33D&text_color=8CA0B3&border_radius=12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapv45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=8CA0B3&border_radius=12" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapv45&theme=tokyonight&hide_border=true&background=0D1117&ring=4FD1C5&fire=E8A33D&currStreakLabel=4FD1C5&border_radius=12" />
-
-</div>
-
-<br/>
-
 ## Get in Touch
 
 <div align="center">
