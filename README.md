@@ -73,17 +73,4 @@ Outside of work, I'm exploring **health data analytics**, **on-device privacy**,
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kashyapv45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapv45&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapv45&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Currently open to Software Engineer / .NET Developer roles — let's connect.</i></p>
