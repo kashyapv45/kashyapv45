@@ -142,6 +142,6 @@ I'm open to Software Engineer / .NET Developer roles — feel free to reach out.
 
 [![Email](https://img.shields.io/badge/kashyap%40cvejobs.com-1C2733?style=flat&logo=gmail&logoColor=4FD1C5)](mailto:kashyap@cvejobs.com)
 [![LinkedIn](https://img.shields.io/badge/in%2Fkashyapv45-1C2733?style=flat&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kashyapv45)
-[![Phone](https://img.shields.io/badge/334--492--6566-1C2733?style=flat&logo=phone&logoColor=4FD1C5)](tel:3344926566)
+[![Phone](https://img.shields.io/badge/601--890--2512-1C2733?style=flat&logo=phone&logoColor=4FD1C5)](tel:6018902512)
 
 </div>
