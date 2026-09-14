@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2733?style=flat&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kashyapv45)
-[![Email](https://img.shields.io/badge/Email-1C2733?style=flat&logo=gmail&logoColor=4FD1C5)](mailto:kashyapvaghani7055@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1C2733?style=flat&logo=gmail&logoColor=4FD1C5)](mailto:kashyap@cvejobs.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C2733?style=flat&logo=vercel&logoColor=4FD1C5)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
 
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-E8A33D?style=flat&labelColor=1C2733)
