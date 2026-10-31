@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Kashyap Vaghani, Software Engineer, .NET and Distributed Systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1C2733"/>
+      <stop offset="1" stop-color="#2F8F88"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0H1200V190C1000 240 820 150 600 190S200 240 0 190Z"/>
+  <text x="600" y="100" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Kashyap Vaghani</text>
+  <text x="600" y="145" text-anchor="middle" fill="#BFF3EE" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Software Engineer · .NET &amp; Distributed Systems</text>
+</svg>
