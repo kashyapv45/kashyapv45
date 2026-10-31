@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" alt="Kashyap Vaghani, Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2733,100:4FD1C5&height=190&section=header&text=Kashyap%20Vaghani&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20.NET%20%26%20Distributed%20Systems&descAlignY=56&descSize=17" />
+<img width="100%" alt="Kashyap Vaghani, Software Engineer" src="./banner.svg" />
 
 <img alt="Building scalable .NET systems, event-driven architecture, private on-device tools, and AI agent workflows" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=620&lines=Building+scalable+.NET+systems;Microservices+%2B+event-driven+architecture;Private%2C+on-device+tools;AI+agent+workflows" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1C2733?style=for-the-badge&logo=heroku&logoColor=4FD1C5)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2733?style=for-the-badge&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kashyapv45)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C2733?style=for-the-badge&logo=googlechrome&logoColor=4FD1C5)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2733?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRGRDFDNSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/kashyapv45)
 [![Email](https://img.shields.io/badge/Email-1C2733?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](mailto:kashyap@cvejobs.com)
 
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-E8A33D?style=flat&labelColor=1C2733)
@@ -147,10 +147,8 @@ Voice-driven simulator for practicing technical and behavioral interviews, with 
 
 I'm open to Software Engineer / .NET Developer roles. Feel free to reach out.
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-1C2733?style=for-the-badge&logo=heroku&logoColor=4FD1C5)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-1C2733?style=for-the-badge&logo=googlechrome&logoColor=4FD1C5)](https://kashyap-vaghani-portfolio-d95c31f7c8e5.herokuapp.com/)
 [![Email](https://img.shields.io/badge/kashyap%40cvejobs.com-1C2733?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](mailto:kashyap@cvejobs.com)
-[![LinkedIn](https://img.shields.io/badge/in%2Fkashyapv45-1C2733?style=for-the-badge&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kashyapv45)
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,100:1C2733&height=100&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/in%2Fkashyapv45-1C2733?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRGRDFDNSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/kashyapv45)
 
 </div>
